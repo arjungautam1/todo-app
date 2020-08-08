@@ -1,8 +1,8 @@
 const todoDatas = [
     {
         id: 1,
-        text: "Complete React Scrimba",
-        completed: false
+        text: "Half hour of Yoga",
+        completed: true
     },
     {
         id: 2,
@@ -11,17 +11,17 @@ const todoDatas = [
     },
     {
         id: 3,
-        text: "Half hour of Yoga",
+        text: "Complete React Scrimba",
         completed: false
     },
     {
         id: 4,
-        text: "Blue Book renew .",
-        completed: true
+        text: "Practice questions from HackerRank  .",
+        completed: false
     },
     {
         id: 5,
-        text: "Bike Wash ",
+        text: " Python course from udemy. ",
         completed: true
     }
 
